@@ -17,7 +17,7 @@ Um alternador de tema simples e eficiente que permite mudar entre modo escuro, c
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/black_white_mode.git
+git clone https://github.com/ryanditko/black_white_mode.git
 ```
 
 2. Abra o arquivo `web/button.html` em seu navegador
