@@ -62,7 +62,7 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 ## 👤 Ryanditko
 
-- GitHub: [@seu-usuario](https://github.com/ryanditk )
+- GitHub: [@Ryanditko](https://github.com/ryanditko )
 
 ---
 ⭐️ Se este projeto ajudou você, considere dar uma estrela!
